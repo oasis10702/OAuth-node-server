@@ -4,6 +4,7 @@ This is an OAuth authorization server built by
 
 - NodeJS
 - Google+ API
+- PassportJS
 - MongoDB
 
 # Installation
