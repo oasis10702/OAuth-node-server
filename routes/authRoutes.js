@@ -12,6 +12,7 @@ module.exports = app => {
 
   app.get('/api/logout', (req, res) => {
     req.logout();
+    // display nothing because of logout
     res.send(req.user);
   });
 
