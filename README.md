@@ -2,7 +2,7 @@
 
 This is an OAuth authorization server built by
 
-- NodeJS
+- NodeJS + Express
 - Google+ API
 - PassportJS
 - MongoDB
