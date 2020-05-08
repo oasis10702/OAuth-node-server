@@ -15,7 +15,7 @@ npm install
 
 # Available Script
 
-Start the server
+Start the development server
 
 ```
 npm run dev
