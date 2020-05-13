@@ -20,3 +20,7 @@ Start the development server
 ```
 npm run dev
 ```
+
+# Todo
+
+- Separate development and production environment
