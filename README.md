@@ -23,4 +23,4 @@ npm run dev
 
 # Todo
 
-- Separate development and production environment
+- Separate to development and production environment
